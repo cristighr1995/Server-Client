@@ -1,0 +1,6 @@
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe.config
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.pdb
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.exe
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.pdb

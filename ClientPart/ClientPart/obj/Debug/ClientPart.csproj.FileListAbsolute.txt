@@ -1,0 +1,9 @@
+c:\users\edi\documents\visual studio 2013\Projects\ClientPart\ClientPart\bin\Debug\ClientPart.exe.config
+c:\users\edi\documents\visual studio 2013\Projects\ClientPart\ClientPart\bin\Debug\ClientPart.exe
+c:\users\edi\documents\visual studio 2013\Projects\ClientPart\ClientPart\bin\Debug\ClientPart.pdb
+c:\users\edi\documents\visual studio 2013\Projects\ClientPart\ClientPart\obj\Debug\ClientPart.exe
+c:\users\edi\documents\visual studio 2013\Projects\ClientPart\ClientPart\obj\Debug\ClientPart.pdb
+c:\users\edi\documents\visual studio 2013\Projects\ClientPart\ClientPart\obj\Debug\ClientPart.csprojResolveAssemblyReference.cache
+C:\Users\crist\Desktop\client-server\ClientPart\ClientPart\bin\Debug\ClientPart.exe.config
+C:\Users\crist\Desktop\client-server\ClientPart\ClientPart\obj\Debug\ClientPart.exe
+C:\Users\crist\Desktop\client-server\ClientPart\ClientPart\obj\Debug\ClientPart.pdb

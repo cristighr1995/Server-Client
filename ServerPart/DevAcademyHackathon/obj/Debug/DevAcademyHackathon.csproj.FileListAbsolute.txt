@@ -1,0 +1,18 @@
+c:\users\edi\documents\visual studio 2013\Projects\DevAcademyHackathon\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe.config
+c:\users\edi\documents\visual studio 2013\Projects\DevAcademyHackathon\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe
+c:\users\edi\documents\visual studio 2013\Projects\DevAcademyHackathon\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.pdb
+c:\users\edi\documents\visual studio 2013\Projects\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.csprojResolveAssemblyReference.cache
+c:\users\edi\documents\visual studio 2013\Projects\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.exe
+c:\users\edi\documents\visual studio 2013\Projects\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.pdb
+C:\Users\crist\Desktop\client-server\DevAcademyHackathon\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe.config
+C:\Users\crist\Desktop\client-server\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.exe
+C:\Users\crist\Desktop\client-server\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.pdb
+C:\Users\crist\Desktop\client-server\DevAcademyHackathon\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe
+C:\Users\crist\Desktop\client-server\DevAcademyHackathon\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.pdb
+C:\Users\crist\Desktop\client-server\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.csprojResolveAssemblyReference.cache
+C:\Users\crist\Documents\Applications\Client-Server Application\DevAcademyHackathon\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe.config
+C:\Users\crist\Documents\Applications\Client-Server Application\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.exe
+C:\Users\crist\Documents\Applications\Client-Server Application\DevAcademyHackathon\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.pdb
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\bin\Debug\DevAcademyHackathon.exe.config
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.exe
+C:\Users\crist\Documents\Applications\Client-Server Application\ServerPart\DevAcademyHackathon\obj\Debug\DevAcademyHackathon.pdb
